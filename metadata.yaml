@@ -1,0 +1,31 @@
+_repo: Francis-Beaumont--DramatistWith-Some-Account-of-His-Circle-Elizabethan-and-Jacobean-and-of-Hi__34214
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gayley, Charles Mills
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '36879'
+    url: http://www.gutenberg.org/2009/agents/36879
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Mills_Gayley
+description: ''
+gutenberg_issued: '2010-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fletcher, John, 1579-1625 -- Friends and associates'
+- !lcsh 'Dramatists, English -- Early modern, 1500-1700 -- Biography'
+- !lcsh 'Authorship -- Collaboration -- History -- 17th century'
+- !lcc 'PR'
+- !lcsh 'Beaumont, Francis, 1584-1616'
+title: "Francis Beaumont: Dramatist\r\nA Portrait, with Some Account of His Circle,\
+  \ Elizabethan and Jacobean,\r\nAnd of His Association with John Fletcher"
+url: http://www.gutenberg.org/ebooks/34214
