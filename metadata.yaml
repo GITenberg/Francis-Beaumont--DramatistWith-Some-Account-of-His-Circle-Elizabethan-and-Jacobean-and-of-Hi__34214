@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36879
     wikipedia: http://en.wikipedia.org/wiki/Charles_Mills_Gayley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34214#Francis-Beaumont--DramatistWith-Some-Account-of-His-Circle-Elizabethan-and-Jacobean-and-of-Hi_
 gutenberg_issued: '2010-11-05'
 gutenberg_type: Text
 identifiers:
